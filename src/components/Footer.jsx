@@ -45,7 +45,7 @@ const Footer = () => {
               </li>
               <li style={{ display: 'flex', gap: '10px', alignItems: 'center' }}>
                 <Phone size={20} color="var(--color-primary)" />
-                <a href="tel:+918146110976">+91 8146110976</a>
+                <a href="tel:+918146119761">+91 8146119761</a>
               </li>
               <li style={{ display: 'flex', gap: '10px', alignItems: 'center' }}>
                 <Clock size={20} color="var(--color-primary)" />

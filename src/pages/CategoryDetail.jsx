@@ -126,7 +126,7 @@ export default function CategoryDetail() {
               Our expert engineers can help you select the exact part for your specific machinery and load requirements.
             </p>
             <div style={{ display: 'flex', gap: '1.5rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-              <a href="https://wa.me/918146110976" className="btn">
+              <a href="https://wa.me/918146119761" className="btn">
                 Request Bulk Quote <ArrowRight size={18} />
               </a>
               <Link to="/contact" className="btn-outline">Visit Our Facility</Link>

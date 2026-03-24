@@ -74,8 +74,8 @@ export default function Home() {
             transition={{ delay: 0.8, duration: 0.6 }}
             style={{ marginTop: '2rem', display: 'flex', gap: '1rem', flexWrap: 'wrap', justifyContent: 'center', width: '100%' }}
           >
-            <Link to="/products" className="btn" style={{ minWidth: '200px' }}>View Catalog</Link>
-            <a href="https://wa.me/918146110976" target="_blank" rel="noreferrer" className="btn btn-outline" style={{ minWidth: '200px', color: 'white', borderColor: 'white' }}>Contact Us</a>
+            <Link to="/products" className="btn" style={{ minWidth: '200px' }}>View Products</Link>
+            <a href="https://wa.me/918146119761" target="_blank" rel="noreferrer" className="btn btn-outline" style={{ minWidth: '200px', color: 'white', borderColor: 'white' }}>Contact Us</a>
           </motion.div>
         </motion.div>
       </div>

@@ -62,7 +62,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h3 style={{fontSize: '1.1rem', marginBottom: '0.3rem'}}>Phone</h3>
-                      <a href="tel:+918146110976" style={{color: 'var(--color-text)', fontWeight: 'bold', fontSize: '1.1rem'}}>+91 8146110976</a>
+                      <a href="tel:+918146119761" style={{color: 'var(--color-text)', fontWeight: 'bold', fontSize: '1.1rem'}}>+91 8146119761</a>
                     </div>
                   </div>
 
@@ -72,7 +72,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h3 style={{fontSize: '1.1rem', marginBottom: '0.3rem'}}>WhatsApp</h3>
-                      <a href="https://wa.me/918146110976" target="_blank" rel="noreferrer" className="btn" style={{marginTop: '0.5rem', backgroundColor: '#25D366', color: 'white', display: 'inline-flex', padding: '0.5rem 1rem', fontSize: '0.85rem'}}>Chat Now</a>
+                      <a href="https://wa.me/918146119761" target="_blank" rel="noreferrer" className="btn" style={{marginTop: '0.5rem', backgroundColor: '#25D366', color: 'white', display: 'inline-flex', padding: '0.5rem 1rem', fontSize: '0.85rem'}}>Chat Now</a>
                     </div>
                   </div>
                 </div>

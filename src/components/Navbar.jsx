@@ -33,7 +33,7 @@ const Navbar = () => {
           <Link to="/products" className={location.pathname === '/products' ? 'active' : ''}>Products</Link>
           <Link to="/blog" className={location.pathname.startsWith('/blog') ? 'active' : ''}>Blog</Link>
           <Link to="/contact" className={location.pathname === '/contact' ? 'active' : ''}>Contact</Link>
-          <a href="tel:+918146110976" className="btn btn-outline" style={{display: 'flex', alignItems: 'center', gap: '8px'}}>
+          <a href="tel:+918146119761" className="btn btn-outline" style={{display: 'flex', alignItems: 'center', gap: '8px'}}>
             <Phone size={18} /> Call Now
           </a>
         </nav>

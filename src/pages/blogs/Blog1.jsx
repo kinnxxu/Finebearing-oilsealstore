@@ -75,7 +75,7 @@ export default function Blog1() {
             </p>
 
             <p style={{marginTop: '2rem'}}>
-              <em>Ready to optimize your supply chain? Contact us today via <a href="https://wa.me/918146110976" style={{color: 'var(--color-primary)', textDecoration: 'underline'}}>WhatsApp</a> for bulk pricing and expert technical support.</em>
+              <em>Ready to optimize your supply chain? Contact us today via <a href="https://wa.me/918146119761" style={{color: 'var(--color-primary)', textDecoration: 'underline'}}>WhatsApp</a> for bulk pricing and expert technical support.</em>
             </p>
           </div>
         </motion.article>
